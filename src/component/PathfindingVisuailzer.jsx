@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Node from "./Node";
+
 import "./PathFindingVis.css";
 
 const START_NODE_ROW = 10;
